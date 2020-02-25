@@ -1,0 +1,16 @@
+:host {
+  border: 1px solid #eee;
+  border-style: dashed;
+  width: auto;
+  height: auto;
+  display: block;
+  padding: 1em;
+  margin: 1em 0;
+  position: relative;
+}
+
+.form {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}

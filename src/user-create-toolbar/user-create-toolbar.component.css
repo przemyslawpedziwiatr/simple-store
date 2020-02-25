@@ -1,0 +1,22 @@
+:host {
+  display: flex;
+  align-items: center;
+
+  border: 1px solid #eee;
+  border-style: dashed;
+  width: auto;
+  height: auto;
+  padding: 2em 1em;
+  margin: 1em 0;
+  position: relative;
+}
+
+.user__new {
+  margin-left: 1em;
+  flex: 0.25;
+}
+
+srs-user-create-tab {
+  flex: 0.75;
+}
+
